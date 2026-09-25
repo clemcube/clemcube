@@ -1,6 +1,6 @@
 # Clément Creuzenet
 
-Je développe des outils numériques pour des PME industrielles, en duo avec mon père qui dirige.
+Je développe des outils numériques pour des PME industrielles.
 
 ## NextLink
 
