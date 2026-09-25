@@ -1,18 +1,12 @@
 # Clément Creuzenet
 
-Je développe des outils numériques pour des PME industrielles.
+Je construis [NextLink](https://nextlink.space), le bras droit numérique du dirigeant de PME industrielle.
 
-## NextLink
+NextLink s'adresse à toute entreprise équipée d'un ERP et/ou d'un CRM, avec un terrain historique dans l'industrie en Bourgogne-Franche-Comté. Stack : Next.js, Supabase, Vercel.
 
-[NextLink](https://nextlink.space) est une plateforme SaaS et IoT conçue comme le bras droit numérique du dirigeant de PME. Elle s'adresse à toute entreprise équipée d'un ERP et/ou d'un CRM, avec un terrain historique dans les PME industrielles de Bourgogne-Franche-Comté.
+## Projet public
 
-## Autres projets
-
-| Projet | Rôle |
-|---|---|
-| AICC Microlaser | Découpe laser et pliage, B2B métallurgie |
-| Bertin Menuiserie | Menuiserie reprise en faillite, B2B / B2C / B2G |
-| Coastone | Revente de machines industrielles, B2B |
+**[kbis-empire](https://github.com/clemcube/kbis-empire)** — jeu web tycoon pédagogique, de l'auto-entreprise à la multinationale cotée, sur les règles fiscales et sociales françaises 2026. Gratuit, hors-ligne.
 
 ## Stack
 
@@ -20,21 +14,6 @@ Je développe des outils numériques pour des PME industrielles.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-## Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=clemcube&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemcube&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    alt="Top Languages"
-    height="165"
-  />
-</p>
 
 ## Contact
 
