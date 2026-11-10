@@ -1,21 +1,17 @@
-# Clément Creuzenet
+<p align="center">
+  <img src="./cards/hero.svg" width="100%" alt="Clément Creuzenet. Je construis des logiciels qui font gagner du temps aux dirigeants de PME." />
+</p>
 
-Je construis [NextLink](https://nextlink.space), le bras droit numérique du dirigeant de PME industrielle.
+<p align="center">
+  <a href="https://nextlink.space"><img src="./cards/nextlink.svg" width="32.5%" alt="NextLink : le bras droit numérique du dirigeant. Chaque lundi, les chiffres de sa semaine." /></a>
+  <a href="https://lacuzon.fr"><img src="./cards/lacuzon.svg" width="32.5%" alt="Lacuzon : sites internet et logiciels sur mesure pour artisans, PME et cabinets." /></a>
+  <a href="https://github.com/clemcube?tab=repositories"><img src="./cards/open-source.svg" width="32.5%" alt="Open source : kbis-empire et seatbelt-lite." /></a>
+</p>
 
-NextLink s'adresse à toute entreprise équipée d'un ERP et/ou d'un CRM, avec un terrain historique dans l'industrie en Bourgogne-Franche-Comté. Stack : Next.js, Supabase, Vercel.
+<p align="center">
+  <img src="./cards/activity.svg" width="100%" alt="Activité GitHub des douze derniers mois." />
+</p>
 
-## Projet public
-
-**[kbis-empire](https://github.com/clemcube/kbis-empire)** — jeu web tycoon pédagogique, de l'auto-entreprise à la multinationale cotée, sur les règles fiscales et sociales françaises 2026. Gratuit, hors-ligne.
-
-## Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-creuzenet-a98619295/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:clemtb25@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/clement-creuzenet-a98619295/">LinkedIn</a> · <a href="mailto:clemtb25@gmail.com">clemtb25@gmail.com</a>
+</p>
